@@ -39,7 +39,7 @@ The target variable for churn prediction is the **Exited** column. It indicates 
 
 To utilize this dataset, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/bank-churn-prediction.git`
+1. Clone the repository: `https://github.com/vinodkumargr/Bank_Churn_Pred_ML.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Explore the Jupyter Notebook or Python scripts to understand the data analysis, preprocessing, model development, and evaluation steps.
 4. Modify the code or dataset as needed to adapt it to your specific use case.
