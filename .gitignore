@@ -9,7 +9,6 @@ data_dump.py
 
 
 .env
-.price
 env/
 price/
 ENV/
