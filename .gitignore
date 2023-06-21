@@ -5,8 +5,6 @@ churn.egg-info/
 .github
 
 
-data_dump.py
-
 
 .env
 env/
