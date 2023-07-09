@@ -8,6 +8,7 @@ from dataclasses import dataclass
 
 DATABASE_NAME = "BANK_CHURN"
 COLLECTION_NAME = "BANK_CHURN"
+TARGET_COLUMN = "Exited"
 load_dotenv()
 
 mongo_client = pymongo.MongoClient(os.getenv("MONGO_DB_URL"))

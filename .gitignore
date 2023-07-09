@@ -3,7 +3,6 @@
 churn.egg-info/
 .ipynb_checkpoints
 .github
-artifacts/
 template.py
 
 
